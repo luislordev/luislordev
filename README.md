@@ -63,3 +63,23 @@ const luislor = {
 
 </p>
 
+### Sobre mí
+
+Como ya habrás podido ver soy desarrollador full Stack, llevo más de 4 años trabajando en el mundo del desarrollo, actualmente trabajo en /Bluetab Solutions, resido  en Madrid, España.
+
+Siempre estoy indagando lo que se mueve en el mundillo,  y aprendiendo alguna nueva tecnologia, actualemente estoy aprendiendo Flutter y lo nuevo de Vue 3 y Nuxt 3, de momento es un buen comienzo para este año. 
+
+Como hobbies aparte de la programación, me gusta mucho jugar a los videojuegos (sobretodo si son de estrategia), soy muy friki de Star Wars, también práctico tiro con arco y estoy en una asociacón benéfica en la cual suelo realizar voluntariados siempre que puedo y el COVID lo permita.
+
+
+Y para terminar algo que nos gusta todos... un poquito de estadísticas #ThisIsTheWay
+
+
+### 📊 Estadísticas
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislordev&theme=vue-dark&locale=es&card_width=450em)](https://github.com/luislordev/luislordev/github-readme-stats"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luislordev&show_icons=true&hide_border=true&locale=es&count_private=true&include_all_commits=true&theme=vue-dark&hide_stars=true" /></td>
+  </tr>
+</table>
