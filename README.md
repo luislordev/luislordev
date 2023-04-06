@@ -6,13 +6,13 @@
 const luislor = {
     name: 'Luis Lorenzo',
     rol: 'Full Stack Developer',
-    level: 25,
     location: 'Madrid, Spain',
     links: {
         linkedin: 'https://www.linkedin.com/in/luis-lorenzo-cuadrado-13b000143/',
         web: 'https://luislor.netlify.app',
         instagram: 'https://www.instagram.com/luislor.dev/',
-        twitter: 'https://twitter.com/luislordev'
+        twitter: 'https://twitter.com/luislordev',
+        tikTok:'https://www.tiktok.com/@luislor.dev'
     }
 }
 ```
@@ -22,9 +22,10 @@ const luislor = {
 ### 🎖 Stack Principal 
 <p>
 <img src="https://img.shields.io/badge/Nuxt-success?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="NuxtJS" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Groovy" />
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
  
@@ -61,17 +62,6 @@ const luislor = {
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
 
 </p>
-
-### Sobre mí
-
-Como ya habrás podido ver soy desarrollador full Stack, llevo más de 4 años trabajando en el mundo del desarrollo, actualmente trabajo en /Bluetab Solutions, resido  en Madrid, España.
-
-Siempre estoy indagando lo que se mueve en el mundillo,  y aprendiendo alguna nueva tecnologia, actualemente estoy aprendiendo Flutter y lo nuevo de Vue 3 y Nuxt 3, de momento es un buen comienzo para este año. 
-
-Como hobbies aparte de la programación, me gusta mucho jugar a los videojuegos (sobretodo si son de estrategia), soy muy friki de Star Wars, también práctico tiro con arco y estoy en una asociacón benéfica en la cual suelo realizar voluntariados siempre que puedo y el COVID lo permita.
-
-
-Y para terminar algo que nos gusta todos... un poquito de estadísticas #ThisIsTheWay
 
 
 ### 📊 Estadísticas
